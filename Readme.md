@@ -24,6 +24,7 @@ npx expo start --clear
 ---
 # Sample Video
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto;" controlsList="nodownload" disablePictureInPicture>
-  <source src="https://drive.google.com/file/d/1xwQ512dKrpnvZ4Rlbuwu_E9jdzvH2RXD/view?usp=sharing" type="video/mp4">
+  <source src="https://drive.google.com/uc?export=download&id=1xwQ512dKrpnvZ4Rlbuwu_E9jdzvH2RXD" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
